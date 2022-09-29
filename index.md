@@ -7,16 +7,16 @@ I am a senior at University of California, San Diego majoring in Computer Scienc
 ## Work Experience
 
 1. ***Splunk Inc*** - San Francisco, CA <img src="images/splunk.svg"  width="70" height="70" align="right"> <br/>
-   **Software Engineering Intern** (Developer Platform - SDLC), June - September 2022)
+   **Software Engineering Intern** (Developer Platform - SDLC), June - September 2022
    - Publish versioned docker images for service base image using semantic-release (automatically determines the next semantic version number through commit messages: `fix` = patch release, `feat` = minor release, `BREAKING CHANGE` = major release).
    - Create a dashboard to visualize the utilization of specific base images.
    - Add features to various existing repos, working with Go, CI/CD, [SPL](https://docs.splunk.com/Splexicon:SPL), Terraform, multi-project pipelines, Gitlab API, Slack API, AWS.
 
-2. ***PT TapTalk Teknologi*** - Jakarta, Indonesia <img src="images/taptalk.png"  width="70" height="70" align="right"> <br/>
-   **Software Engineering Intern** (Backend), June - September 2021)
+2. ***PT TapTalk Teknologi*** - Jakarta, Indonesia <img src="images/taptalk.png"  width="50" height="50" align="right"> <br/>
+   **Software Engineering Intern** (Backend), June - September 2021
 
-3. ***PT Paragon Pratama Teknologi (StickEarn)*** - Jakarta, Indonesia <img src="images/stickearn.png"  width="70" height="70" align="right"> <br/>
-   **Software Engineering Intern** (Backend), June - August 2020)
+3. ***PT Paragon Pratama Teknologi (StickEarn)*** - Jakarta, Indonesia <img src="images/stickearn.png"  width="50" height="50" align="right"> <br/>
+   **Software Engineering Intern** (Backend), June - August 2020
 
 ## More About Me
 
